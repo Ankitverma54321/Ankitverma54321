@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ankitverma54321
-- 👀 I’m interested in building a services centric app using the blockchain technology
-- 🌱 I’m currently learning blockchain 
-- 💞️ I’m looking to collaborate on app building and website building
+- 👀 I’m interested in building a services centric website using the blockchain technology
+- 🌱 I’m currently learning webdevelopment 
+- 💞️ I’m looking to collaborate on website building
 - 📫 can reach me through gmail:av78751170@gmail.com, twitter handle:Ankit_54321
 
 <!---
